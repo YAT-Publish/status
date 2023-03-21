@@ -29,6 +29,12 @@ sites:
     url: $QQBOY_Q
   - name: QQBot Z
     url: $QQBOT_Z
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 302
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
