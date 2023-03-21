@@ -5,31 +5,58 @@ repo: status # The name of this repository
 sites:
   - name: YATeam Web
     url: https://www.yateam.cc
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
   - name: Hashi(橋)
     url: https://hashi.icu
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
   - name: Hashi Proxy for CNM
     url: https://fast.hashi.icu
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
   - name: Haty
     url: https://hashi.sbs
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
   - name: Haty Proxy for CNM
     url: https://chat.hashi.icu
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
   - name: Haty Meet
     url: https://meet.hashi.sbs
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
   - name: YATeam API
     url: https://api.yateam.cc
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
   - name: YAT OSS
     url: https://files.yatserver.com/hashi/hashi/3d8fda85-1e67-45ed-8b31-3b0f02dd5c26.jpg
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
   - name: CodeProxy
     url: https://codeproxy.net
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
   - name: GitHub Proxy
     url: https://git.codeproxy.net
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
   - name: Picapica Download Page (Not a server or proxy)
     url: https://picacg.yacg.asia
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
   - name: QQBot Q
     url: $QQBOY_Q
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
   - name: QQBot Z
     url: $QQBOT_Z
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
     expectedStatusCodes:
+      - 0
       - 200
       - 201
       - 301
