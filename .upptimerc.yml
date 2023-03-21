@@ -1,31 +1,47 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: YAT-Publish # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: YATeam Web
+    url: https://www.yateam.cc
+  - name: Hashi(橋)
+    url: https://hashi.icu
+  - name: Hashi Proxy for CNM
+    url: https://fast.hashi.icu
+  - name: Haty
+    url: https://hashi.sbs
+  - name: Haty Proxy for CNM
+    url: https://chat.hashi.icu
+  - name: Haty Meet
+    url: https://meet.hashi.sbs
+  - name: YATeam API
+    url: https://api.yateam.cc
+  - name: YAT OSS
+    url: https://files.yatserver.com/hashi/hashi/3d8fda85-1e67-45ed-8b31-3b0f02dd5c26.jpg
+  - name: CodeProxy
+    url: https://codeproxy.net
+  - name GitHub Proxy
+    url: https://git.codeproxy.net
+  - Picapica Download Page (Not a server or proxy)
+    url: https://picacg.yacg.asia
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.yatserver.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
+  name: YATeam Web Services Status Page
+  introTitle: "**YATeam Org.** For the dawn of tomorrow."
+  introMessage: Online status of many services including Hashi(橋), Haty, APIs used, etc.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Hashi
+      href: https://hashi.icu
+    - title: Haty
+      href: https://hashi.sbs
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
