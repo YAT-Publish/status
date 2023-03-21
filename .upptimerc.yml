@@ -64,6 +64,7 @@ sites:
       - 401
 
 status-website:
+  favicon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   js: "const links=document.querySelectorAll('link');links.forEach(link=>{if(link.href.includes('https://raw.githubusercontent.com')){link.href='https://ghproxy.com/https://raw.githubusercontent.com'+}});"
