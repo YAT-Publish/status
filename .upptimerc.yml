@@ -21,10 +21,14 @@ sites:
     url: https://files.yatserver.com/hashi/hashi/3d8fda85-1e67-45ed-8b31-3b0f02dd5c26.jpg
   - name: CodeProxy
     url: https://codeproxy.net
-  - name GitHub Proxy
+  - name: GitHub Proxy
     url: https://git.codeproxy.net
-  - Picapica Download Page (Not a server or proxy)
+  - name: Picapica Download Page (Not a server or proxy)
     url: https://picacg.yacg.asia
+  - name: QQBot Q
+    url: $QQBOY_Q
+  - name: QQBot Z
+    url: $QQBOT_Z
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
