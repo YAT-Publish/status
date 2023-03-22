@@ -1,0 +1,1 @@
+const o="https://raw.githubusercontent.com",r="https://ghproxy.com/https://raw.githubusercontent.com";function e(){const t=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT,null,!1);let n;while(n=t.nextNode())n.textContent!==n.textContent.replace(o,r)&&(n.textContent=n.textContent.replace(o,r))}window.addEventListener("load",e);
