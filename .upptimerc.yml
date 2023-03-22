@@ -43,7 +43,7 @@ sites:
     url: https://jsd.yatserver.com/gh/YAT-Publish/status@master/replace.js
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
-- name: Hashi Random Images API(Temporary)
+  - name: Hashi Random Images API(Temporary)
     url: https://www.loliapi.com/acg
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
@@ -79,8 +79,8 @@ status-website:
   favicon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #scripts:
-  #  - src: https://fastly.jsdelivr.net/gh/YAT-Publish/status@master/replace.js
+  scripts:
+    - src: https://fastly.jsdelivr.net/gh/YAT-Publish/status@master/replace.js
   cname: status.yatserver.com
   # baseUrl: /your-repo-name
   logoUrl: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
