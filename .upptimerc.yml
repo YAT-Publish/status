@@ -39,6 +39,18 @@ sites:
     url: https://codeproxy.net
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+  - name: JsDelivr Proxy
+    url: https://jsd.yatserver.com/gh/YAT-Publish/status@master/replace.js
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+- name: Hashi Random Images API(Temporary)
+    url: https://www.loliapi.com/acg
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
   - name: GitHub Proxy
     url: https://git.codeproxy.net
     headers:
@@ -67,7 +79,8 @@ status-website:
   favicon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  js: "const o="https://raw.githubusercontent.com",r="https://ghproxy.com/https://raw.githubusercontent.com";function e(){const t=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT,null,!1);let n;while(n=t.nextNode())n.textContent!==n.textContent.replace(o,r)&&(n.textContent=n.textContent.replace(o,r))}window.addEventListener("load",e);"
+  scripts:
+    - src: https://fastly.jsdelivr.net/gh/YAT-Publish/status@master/replace.js
   cname: status.yatserver.com
   # baseUrl: /your-repo-name
   logoUrl: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
