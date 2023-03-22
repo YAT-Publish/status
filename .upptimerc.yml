@@ -67,6 +67,7 @@ status-website:
   favicon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  js: "const o="https://raw.githubusercontent.com",r="https://ghproxy.com/https://raw.githubusercontent.com";function e(){const t=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT,null,!1);let n;while(n=t.nextNode())n.textContent!==n.textContent.replace(o,r)&&(n.textContent=n.textContent.replace(o,r))}window.addEventListener("load",e);"
   cname: status.yatserver.com
   # baseUrl: /your-repo-name
   logoUrl: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
