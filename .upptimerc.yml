@@ -28,6 +28,7 @@ sites:
     icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+    
   - name: Haty Meet
     url: https://meet.hashi.sbs
     icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
@@ -53,6 +54,8 @@ sites:
     icon: https://www.jsdelivr.com/icon_256x256.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+    expectedStatusCodes:
+      - 403
   - name: Hashi Random Images API(Temporary)
     url: https://www.loliapi.com/acg
     icon: https://cdn.iloli.love/loliapi.com/img/favicon.ico
