@@ -115,3 +115,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+    footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)  <a href="https://check.yatserver.com" title="YATeam Verification" target='_blank'><img style='display:inline-block;vertical-align:middle' alt="YATeam Verification" src="https://check.yatserver.com/yatverify.svg"></a>YATeam 10000001  
