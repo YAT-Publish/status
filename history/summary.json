@@ -162,9 +162,9 @@
     "url": "https://codeproxy.net",
     "icon": "https://codeproxy.net/assets/img/favicon.png",
     "slug": "code-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
@@ -174,6 +174,7 @@
     "timeMonth": 1571,
     "timeYear": 1624,
     "dailyMinutesDown": {
+      "2023-05-14": 0,
       "2023-05-09": 20,
       "2023-03-29": 53
     }
@@ -223,9 +224,9 @@
     "url": "https://git.codeproxy.net",
     "icon": "https://github.com/fluidicon.png",
     "slug": "git-hub-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -235,6 +236,7 @@
     "timeMonth": 1433,
     "timeYear": 1472,
     "dailyMinutesDown": {
+      "2023-05-14": 0,
       "2023-03-29": 52
     }
   },
