@@ -105,10 +105,10 @@
     "url": "https://meet.hashi.sbs",
     "icon": "https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png",
     "slug": "haty-meet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1218,
@@ -116,7 +116,9 @@
     "timeWeek": 1194,
     "timeMonth": 1188,
     "timeYear": 1218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-15": 1
+    }
   },
   {
     "name": "YATeam API",
@@ -163,18 +165,18 @@
     "icon": "https://codeproxy.net/assets/img/favicon.png",
     "slug": "code-proxy",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.76%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.76%",
     "time": 1622,
     "timeDay": 1462,
     "timeWeek": 1608,
     "timeMonth": 1567,
     "timeYear": 1622,
     "dailyMinutesDown": {
-      "2023-05-15": 0,
+      "2023-05-15": 6,
       "2023-05-14": 112,
       "2023-05-09": 20,
       "2023-03-29": 53
@@ -226,18 +228,17 @@
     "icon": "https://github.com/fluidicon.png",
     "slug": "git-hub-proxy",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.79%",
+    "uptime": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.80%",
     "time": 1472,
     "timeDay": 1566,
     "timeWeek": 1419,
     "timeMonth": 1431,
     "timeYear": 1472,
     "dailyMinutesDown": {
-      "2023-05-15": 5,
       "2023-05-14": 107,
       "2023-03-29": 52
     }
