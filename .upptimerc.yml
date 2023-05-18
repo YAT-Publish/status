@@ -85,12 +85,16 @@ sites:
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
     expectedStatusCodes:
-      - 0
       - 200
       - 201
       - 301
       - 302
       - 401
+  - name: YAT Server Home Page
+    url: https://www.yatserver.com
+    icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
 
 status-website:
   favicon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
