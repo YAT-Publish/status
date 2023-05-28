@@ -1,7 +1,7 @@
 url: $QQBOT_Z
-status: down
-code: 502
-responseTime: 699
-lastUpdated: 2023-05-27T23:07:35.319Z
+status: up
+code: 200
+responseTime: 1279
+lastUpdated: 2023-05-28T13:37:42.985Z
 startTime: Tue Mar 21 2023 16:05:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
