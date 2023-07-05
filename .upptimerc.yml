@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: YATeam Web
-    url: https://www.yateam.cc
+    url: https://www.yateam.cc/yatassets/plugins/hermit/assets/js/3.1.6/hermit.js
     icon: https://img.yateam.cc/content/images/system/favicon_1644027933750_5a2ec3.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
