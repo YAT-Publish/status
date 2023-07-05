@@ -13,8 +13,8 @@ sites:
     icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
-  - name: Hashi Proxy for CNM
-    url: https://fast.hashi.icu
+  - name: Listening Hole
+    url: https://th.hashi.icu
     icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
@@ -23,13 +23,6 @@ sites:
     icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
-  - name: Haty Proxy for CNM
-    url: https://chat.hashi.icu
-    icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
-    headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
-    expectedStatusCodes:
-      - 403
   - name: Haty Meet
     url: https://meet.hashi.sbs
     icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
