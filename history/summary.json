@@ -99,7 +99,7 @@
     "status": "up",
     "uptime": "89.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.40%",
+    "uptimeWeek": "92.46%",
     "uptimeMonth": "90.89%",
     "uptimeYear": "89.87%",
     "time": 1196,
@@ -310,7 +310,7 @@
     "status": "up",
     "uptime": "91.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.40%",
+    "uptimeWeek": "92.46%",
     "uptimeMonth": "90.89%",
     "uptimeYear": "91.31%",
     "time": 814,
@@ -342,19 +342,19 @@
     "url": "https://www.yatserver.com",
     "icon": "https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png",
     "slug": "yat-server-home-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2608,
-    "timeDay": 4182,
-    "timeWeek": 3888,
+    "time": 2624,
+    "timeDay": 4149,
+    "timeWeek": 3914,
     "timeMonth": 4098,
-    "timeYear": 2608,
+    "timeYear": 2624,
     "dailyMinutesDown": {
-      "2023-08-15": 0
+      "2023-08-15": 6
     }
   }
 ]
