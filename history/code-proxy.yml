@@ -1,7 +1,7 @@
 url: https://codeproxy.net
-status: up
-code: 200
-responseTime: 1660
-lastUpdated: 2023-08-29T23:06:26.544Z
+status: down
+code: 502
+responseTime: 533
+lastUpdated: 2023-08-30T20:43:36.116Z
 startTime: 2023-03-21T16:05:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
