@@ -23,8 +23,8 @@ sites:
     icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
-  - name: Haty Meet
-    url: https://meet.hashi.sbs
+  - name: Haty Server
+    url: https://chatserver.hashi.sbs/_synapse/admin/v1/server_version
     icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
