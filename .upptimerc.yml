@@ -7,52 +7,52 @@ sites:
     url: https://www.yateam.cc/yatassets/plugins/hermit/assets/js/3.1.6/hermit.js
     icon: https://img.yateam.cc/content/images/system/favicon_1644027933750_5a2ec3.png
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: Hashi(橋)
     url: https://hashi.icu
     icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: Listening Hole
     url: https://th.hashi.icu
     icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: Haty
-    url: https://hashi.sbs
+    url: https://chat.hashi.sbs/img/element-icons/brands/github.de3b60e.svg
     icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: Haty Server
     url: https://chatserver.hashi.sbs/_synapse/admin/v1/server_version
     icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: YATeam API
     url: https://api.yateam.cc
     icon: https://img.yateam.cc/content/images/system/favicon_1644027933750_5a2ec3.png
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: YAT OSS
     url: https://files.yatserver.com/hashi/hashi/3d8fda85-1e67-45ed-8b31-3b0f02dd5c26.jpg
     icon: https://img.yateam.cc/content/images/system/favicon_1644027933750_5a2ec3.png
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: CodeProxy
     url: https://codeproxy.net
     icon: https://codeproxy.net/assets/img/favicon.png
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: JsDelivr Proxy
     url: https://jsd.yatserver.com/gh/YAT-Publish/status@master/replace.js
     icon: https://www.jsdelivr.com/icon_256x256.png
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: Hashi Random Images API(Temporary)
     url: https://www.loliapi.com/acg
     icon: https://cdn.iloli.love/loliapi.com/img/favicon.ico
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
     expectedStatusCodes:
       - 200
       - 301
@@ -61,22 +61,22 @@ sites:
     url: https://git.codeproxy.net
     icon: https://github.com/fluidicon.png
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: Picapica Download Page (Not a server or proxy)
     url: https://picacg.yacg.asia
     icon: https://picacg.yacg.asia/favicon.ico
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: QQBot Q
     url: $QQBOY_Q
     icon: https://qzonestyle.gtimg.cn/qzone/qzact/act/external/tiqq/logo.png
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: QQBot Z
     url: $QQBOT_Z
     icon: https://qzonestyle.gtimg.cn/qzone/qzact/act/external/tiqq/logo.png
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
     expectedStatusCodes:
       - 200
       - 201
@@ -87,7 +87,7 @@ sites:
     url: https://www.yatserver.com
     icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 YAT-Check"
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
 
 status-website:
   favicon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
