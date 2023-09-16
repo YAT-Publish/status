@@ -1,7 +1,7 @@
 url: https://chatserver.hashi.sbs/_synapse/admin/v1/server_version
 status: down
 code: 403
-responseTime: 580
-lastUpdated: 2023-09-15T23:07:05.053Z
+responseTime: 410
+lastUpdated: 2023-09-16T23:07:12.630Z
 startTime: 2023-09-04T17:16:25.813Z
 generator: Upptime <https://github.com/upptime/upptime>
