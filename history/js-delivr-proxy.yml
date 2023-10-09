@@ -1,7 +1,7 @@
 url: https://jsd.yatserver.com/gh/YAT-Publish/status@master/replace.js
-status: up
-code: 200
-responseTime: 1652
-lastUpdated: 2023-10-09T10:50:37.172Z
+status: down
+code: 523
+responseTime: 4190
+lastUpdated: 2023-10-09T11:36:15.310Z
 startTime: 2023-03-22T04:08:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
