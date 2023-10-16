@@ -4,43 +4,43 @@ repo: status # The name of this repository
 
 sites:
   - name: YATeam Web
-    url: https://www.yateam.cc/yatassets/plugins/hermit/assets/js/3.1.6/hermit.js
-    icon: https://img.yateam.cc/content/images/system/favicon_1644027933750_5a2ec3.png
+    url: https://www.yateam.cc
+    icon: https://img.yateam.cc/img/2023/10/16/favicon7005329596a0b1b1.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: Hashi(橋)
-    url: https://hashi.icu
-    icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
+    url: https://hi.hashi.icu
+    icon: https://img.yateam.cc/img/2023/10/11/hashid59ff7816f045287ad29011a2a630e77.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: Listening Hole
-    url: https://th.hashi.icu
-    icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
+    url: https://hole.hashi.icu
+    icon: https://img.yateam.cc/img/2023/10/11/hashid59ff7816f045287ad29011a2a630e77.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: Haty
     url: https://chat.hashi.sbs/img/element-icons/brands/github.de3b60e.svg
-    icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
+    icon: https://img.yateam.cc/img/2023/10/11/hashid59ff7816f045287ad29011a2a630e77.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: Haty Server
-    url: https://chatserver.hashi.sbs/_synapse/admin/v1/server_version
-    icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
+    url: https://chat.hashi.sbs
+    icon: https://img.yateam.cc/img/2023/10/11/hashid59ff7816f045287ad29011a2a630e77.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: YATeam API
     url: https://api.yateam.cc
-    icon: https://img.yateam.cc/content/images/system/favicon_1644027933750_5a2ec3.png
+    icon: https://img.yateam.cc/img/2023/10/16/favicon7005329596a0b1b1.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: YAT OSS
-    url: https://files.yatserver.com/hashi/hashi/3d8fda85-1e67-45ed-8b31-3b0f02dd5c26.jpg
-    icon: https://img.yateam.cc/content/images/system/favicon_1644027933750_5a2ec3.png
+    url: https://files.yatserver.com/hashi-next/hashi/25e94b33-e005-400a-919e-73202ab40b0d.webp
+    icon: https://img.yateam.cc/img/2023/10/16/favicon7005329596a0b1b1.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: CodeProxy
     url: https://codeproxy.net
-    icon: https://codeproxy.net/assets/img/favicon.png
+    icon: https://img.yateam.cc/img/2023/10/16/favicon7005329596a0b1b1.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: JsDelivr Proxy
@@ -85,12 +85,12 @@ sites:
       - 401
   - name: YAT Server Home Page
     url: https://www.yatserver.com
-    icon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
+    icon: https://img.yateam.cc/img/2023/10/11/hashid59ff7816f045287ad29011a2a630e77.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
 
 status-website:
-  favicon: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
+  favicon: https://img.yateam.cc/img/2023/10/11/hashid59ff7816f045287ad29011a2a630e77.png
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #scripts:
@@ -98,7 +98,7 @@ status-website:
   cname: status.yatserver.com
   # baseUrl: /your-repo-name
   userContentBaseUrl: https://ghproxy.com/https://raw.githubusercontent.com
-  logoUrl: https://img.yateam.cc/images/2022/06/13/hashid59ff7816f045287.png
+  logoUrl: https://img.yateam.cc/img/2023/10/11/hashid59ff7816f045287ad29011a2a630e77.png
   name: YATeam Web Services Status Page
   introTitle: "**YATeam Org.** For the dawn of tomorrow."
   introMessage: Online status of many services including Hashi(橋), Haty, APIs used, etc.
