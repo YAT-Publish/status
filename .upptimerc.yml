@@ -28,6 +28,21 @@ sites:
     icon: https://img.yateam.cc/img/2023/10/11/hashid59ff7816f045287ad29011a2a630e77.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
+  - name: Haty Call Server
+    url: https://cs.hashi.sbs
+    icon: https://img.yateam.cc/img/2023/10/11/hashid59ff7816f045287ad29011a2a630e77.png
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
+  - name: Haty Call Backend
+    url: $HT_L
+    icon: https://img.yateam.cc/img/2023/10/11/hashid59ff7816f045287ad29011a2a630e77.png
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
+  - name: Haty TURN
+    url: https://turn.hashi.sbs
+    icon: https://img.yateam.cc/img/2023/10/11/hashid59ff7816f045287ad29011a2a630e77.png
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: YATeam API
     url: https://api.yateam.cc
     icon: https://img.yateam.cc/img/2023/10/16/favicon7005329596a0b1b1.png
@@ -62,11 +77,21 @@ sites:
     icon: https://github.com/fluidicon.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
-  - name: Picapica Download Page (Not a server or proxy)
-    url: https://picacg.yacg.asia
-    icon: https://picacg.yacg.asia/favicon.ico
+  - name: Whimsies Docs
+    url: https://docs.whimsies.org
+    icon: https://docs.whimsies.org/customize/favicon/main-favicon.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
+  - name: Captcha
+    url: https://captcha.whimsies.org
+    icon: https://docs.whimsies.org/customize/favicon/main-favicon.png
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
+#  - name: Picapica Download Page (Not a server or proxy)
+#  url: https://picacg.yacg.asia
+#  icon: https://picacg.yacg.asia/favicon.ico
+#  headers:
+#    - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
 #  - name: QQBot Q
 #    url: $QQBOY_Q
 #    icon: https://qzonestyle.gtimg.cn/qzone/qzact/act/external/tiqq/logo.png
