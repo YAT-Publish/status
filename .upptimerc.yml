@@ -24,7 +24,7 @@ sites:
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: Haty Server
-    url: https://chat.hashi.sbs
+    url: https://hashi.sbs/_matrix/consent
     icon: https://img.yateam.cc/img/2023/10/11/hashid59ff7816f045287ad29011a2a630e77.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
@@ -67,22 +67,22 @@ sites:
     icon: https://picacg.yacg.asia/favicon.ico
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
-  - name: QQBot Q
-    url: $QQBOY_Q
-    icon: https://qzonestyle.gtimg.cn/qzone/qzact/act/external/tiqq/logo.png
-    headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
-  - name: QQBot Z
-    url: $QQBOT_Z
-    icon: https://qzonestyle.gtimg.cn/qzone/qzact/act/external/tiqq/logo.png
-    headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 302
-      - 401
+#  - name: QQBot Q
+#    url: $QQBOY_Q
+#    icon: https://qzonestyle.gtimg.cn/qzone/qzact/act/external/tiqq/logo.png
+#    headers:
+#      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
+#  - name: QQBot Z
+#    url: $QQBOT_Z
+#    icon: https://qzonestyle.gtimg.cn/qzone/qzact/act/external/tiqq/logo.png
+#    headers:
+#      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
+#    expectedStatusCodes:
+#      - 200
+#      - 201
+#      - 301
+#      - 302
+#      - 401
   - name: YAT Server Home Page
     url: https://www.yatserver.com
     icon: https://img.yateam.cc/img/2023/10/11/hashid59ff7816f045287ad29011a2a630e77.png
