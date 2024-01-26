@@ -3,6 +3,11 @@ owner: YAT-Publish # Your GitHub organization or username, where this repository
 repo: status # The name of this repository
 
 sites:
+  - name: Whimsies Status
+    url: https://status.whimsies.org
+    icon: https://docs.whimsies.org/customize/favicon/main-favicon.png
+    headers:
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: YATeam Web
     url: https://www.yateam.cc
     icon: https://img.yateam.cc/img/2023/10/16/favicon7005329596a0b1b1.png
