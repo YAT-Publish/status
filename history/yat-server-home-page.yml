@@ -1,7 +1,7 @@
 url: https://www.yatserver.com
-status: up
-code: 200
-responseTime: 3022
-lastUpdated: 2024-01-29T23:09:14.744Z
+status: down
+code: 502
+responseTime: 482
+lastUpdated: 2024-01-30T03:52:56.964Z
 startTime: 2023-05-18T13:34:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
