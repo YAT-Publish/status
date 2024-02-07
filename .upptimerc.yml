@@ -24,7 +24,7 @@ sites:
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
   - name: Haty
-    url: https://chat.hashi.sbs/img/element-icons/brands/github.de3b60e.svg
+    url: https://chat.hashi.sbs
     icon: https://img.yateam.cc/img/2023/10/11/hashid59ff7816f045287ad29011a2a630e77.png
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1938.69 Safari/537.36 YAT-Check"
