@@ -5,19 +5,17 @@
     "icon": "https://docs.whimsies.org/customize/favicon/main-favicon.png",
     "slug": "whimsies-status",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 591,
     "timeDay": 7053,
     "timeWeek": 2032,
     "timeMonth": 886,
     "timeYear": 591,
-    "dailyMinutesDown": {
-      "2024-04-26": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "YATeam Web",
