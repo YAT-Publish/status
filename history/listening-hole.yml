@@ -1,7 +1,7 @@
 url: https://hole.hashi.icu
-status: up
-code: 200
-responseTime: 277
-lastUpdated: 2024-05-05T23:08:01.405Z
+status: down
+code: 502
+responseTime: 155
+lastUpdated: 2024-05-06T14:36:45.890Z
 startTime: 2023-07-05T16:54:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
