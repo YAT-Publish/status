@@ -6,18 +6,16 @@
     "slug": "whimsies-status",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 543,
     "timeDay": 455,
     "timeWeek": 460,
     "timeMonth": 428,
     "timeYear": 543,
-    "dailyMinutesDown": {
-      "2024-06-03": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "YATeam Web",
@@ -25,7 +23,7 @@
     "icon": "https://img.yateam.cc/img/2023/10/16/favicon7005329596a0b1b1.png",
     "slug": "ya-team-web",
     "status": "up",
-    "uptime": "96.70%",
+    "uptime": "96.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "99.80%",
