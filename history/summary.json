@@ -4,10 +4,10 @@
     "url": "https://status.whimsies.org",
     "icon": "https://docs.whimsies.org/customize/favicon/main-favicon.png",
     "slug": "whimsies-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 543,
@@ -15,7 +15,9 @@
     "timeWeek": 460,
     "timeMonth": 428,
     "timeYear": 543,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-04": 1
+    }
   },
   {
     "name": "YATeam Web",
@@ -29,7 +31,7 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "97.77%",
     "time": 3847,
-    "timeDay": 22451,
+    "timeDay": 22144,
     "timeWeek": 19153,
     "timeMonth": 11064,
     "timeYear": 4661,
@@ -94,7 +96,7 @@
     "status": "up",
     "uptime": "94.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "72.06%",
+    "uptimeWeek": "72.17%",
     "uptimeMonth": "92.48%",
     "uptimeYear": "94.99%",
     "time": 274,
@@ -188,9 +190,9 @@
     "slug": "haty-server",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "99.25%",
     "time": 1308,
     "timeDay": 5048,
@@ -198,7 +200,6 @@
     "timeMonth": 1071,
     "timeYear": 1308,
     "dailyMinutesDown": {
-      "2024-06-04": 12,
       "2024-05-30": 49,
       "2024-05-14": 60,
       "2024-05-13": 16,
