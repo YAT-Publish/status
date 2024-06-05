@@ -4,10 +4,10 @@
     "url": "https://status.whimsies.org",
     "icon": "https://docs.whimsies.org/customize/favicon/main-favicon.png",
     "slug": "whimsies-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 539,
@@ -15,7 +15,9 @@
     "timeWeek": 448,
     "timeMonth": 424,
     "timeYear": 539,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-05": 1
+    }
   },
   {
     "name": "YATeam Web",
@@ -93,11 +95,11 @@
     "icon": "https://img.yateam.cc/img/2023/10/11/hashid59ff7816f045287ad29011a2a630e77.png",
     "slug": "listening-hole",
     "status": "up",
-    "uptime": "94.99%",
+    "uptime": "95.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.99%",
+    "uptimeWeek": "81.88%",
     "uptimeMonth": "92.48%",
-    "uptimeYear": "94.99%",
+    "uptimeYear": "95.00%",
     "time": 274,
     "timeDay": 182,
     "timeWeek": 293,
