@@ -1,7 +1,7 @@
 url: https://hashi.sbs/_matrix/consent
-status: up
-code: 200
-responseTime: 637
-lastUpdated: 2024-08-03T23:10:00.655Z
+status: down
+code: 502
+responseTime: 394
+lastUpdated: 2024-08-04T02:57:03.897Z
 startTime: 2023-09-04T17:16:25.813Z
 generator: Upptime <https://github.com/upptime/upptime>
