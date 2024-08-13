@@ -4,19 +4,19 @@
     "url": "https://status.whimsies.org",
     "icon": "https://docs.whimsies.org/customize/favicon/main-favicon.png",
     "slug": "whimsies-status",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 514,
-    "timeDay": 427,
-    "timeWeek": 547,
-    "timeMonth": 490,
+    "timeDay": 476,
+    "timeWeek": 545,
+    "timeMonth": 491,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2024-08-13": 0
+      "2024-08-13": 12
     }
   },
   {
