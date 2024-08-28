@@ -1,7 +1,7 @@
 url: https://git.codeproxy.net
-status: up
-code: 200
-responseTime: 1023
-lastUpdated: 2024-08-27T23:12:03.230Z
+status: down
+code: 504
+responseTime: 12835
+lastUpdated: 2024-08-28T21:39:46.915Z
 startTime: 2023-03-21T16:05:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
