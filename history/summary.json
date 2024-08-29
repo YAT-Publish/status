@@ -5,18 +5,19 @@
     "icon": "https://docs.whimsies.org/customize/favicon/main-favicon.png",
     "slug": "whimsies-status",
     "status": "down",
-    "uptime": "96.31%",
+    "uptime": "96.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.81%",
-    "uptimeYear": "96.31%",
+    "uptimeMonth": "73.58%",
+    "uptimeYear": "96.28%",
     "time": 512,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 500,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2024-08-28": 1417,
+      "2024-08-29": 74,
+      "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
@@ -169,7 +170,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "96.41%",
+    "uptimeYear": "96.43%",
     "time": 821,
     "timeDay": 536,
     "timeWeek": 524,
@@ -193,8 +194,7 @@
       "2023-09-03": 1440,
       "2023-09-02": 1440,
       "2023-09-01": 1440,
-      "2023-08-31": 1440,
-      "2023-08-30": 1440
+      "2023-08-31": 1440
     }
   },
   {
