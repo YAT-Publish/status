@@ -8,7 +8,7 @@
     "uptime": "89.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "33.79%",
+    "uptimeMonth": "33.81%",
     "uptimeYear": "89.53%",
     "time": 510,
     "timeDay": 428,
@@ -418,17 +418,17 @@
     "url": "https://www.loliapi.com/acg",
     "icon": "https://cdn.iloli.love/loliapi.com/img/favicon.ico",
     "slug": "hashi-random-images-api-temporary",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "46.27%",
+    "uptimeDay": "46.69%",
     "uptimeWeek": "72.90%",
     "uptimeMonth": "93.76%",
     "uptimeYear": "99.40%",
-    "time": 6169,
-    "timeDay": 11029,
-    "timeWeek": 11007,
-    "timeMonth": 10405,
-    "timeYear": 6451,
+    "time": 6186,
+    "timeDay": 11182,
+    "timeWeek": 11034,
+    "timeMonth": 10432,
+    "timeYear": 6469,
     "dailyMinutesDown": {
       "2024-09-26": 326,
       "2024-09-25": 805,
@@ -440,7 +440,7 @@
       "2024-09-19": 1,
       "2024-03-08": 16,
       "2024-02-19": 102,
-      "2024-02-18": 330
+      "2024-02-18": 311
     }
   },
   {
