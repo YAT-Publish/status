@@ -239,19 +239,19 @@
     "url": "https://files.yatserver.com/hashi-next/hashi/25e94b33-e005-400a-919e-73202ab40b0d.webp",
     "icon": "https://img.yateam.cc/img/2023/10/16/favicon7005329596a0b1b1.png",
     "slug": "yat-oss",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 580,
-    "timeWeek": 423,
-    "timeMonth": 298,
+    "timeDay": 378,
+    "timeWeek": 392,
+    "timeMonth": 294,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 13
     }
   },
   {
@@ -297,7 +297,7 @@
     "timeMonth": 251,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-08-25": 1397,
+      "2025-08-25": 1409,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -565,7 +565,7 @@
     "timeMonth": 346,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2025-08-25": 1397,
+      "2025-08-25": 1410,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
