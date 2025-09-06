@@ -283,7 +283,7 @@
     "timeMonth": 245,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-09-06": 510,
+      "2025-09-06": 522,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -455,13 +455,13 @@
     "url": "https://www.loliapi.com/acg",
     "icon": "https://cdn.iloli.love/loliapi.com/img/favicon.ico",
     "slug": "hashi-random-images-api-temporary",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "56.03%",
+    "uptimeDay": "56.78%",
     "uptimeWeek": "81.29%",
     "uptimeMonth": "93.38%",
     "uptimeYear": "98.58%",
-    "time": 5359,
+    "time": 5363,
     "timeDay": 3386,
     "timeWeek": 3288,
     "timeMonth": 2538,
@@ -503,7 +503,7 @@
       "2024-09-26": 367,
       "2024-09-25": 805,
       "2024-09-24": 600,
-      "2024-09-23": 284
+      "2024-09-23": 263
     }
   },
   {
@@ -571,7 +571,7 @@
     "timeMonth": 357,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2025-09-06": 511,
+      "2025-09-06": 522,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
