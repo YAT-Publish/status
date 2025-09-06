@@ -283,7 +283,7 @@
     "timeMonth": 245,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-09-06": 829,
+      "2025-09-06": 854,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -455,9 +455,9 @@
     "url": "https://www.loliapi.com/acg",
     "icon": "https://cdn.iloli.love/loliapi.com/img/favicon.ico",
     "slug": "hashi-random-images-api-temporary",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "57.15%",
+    "uptimeDay": "57.12%",
     "uptimeWeek": "78.98%",
     "uptimeMonth": "92.85%",
     "uptimeYear": "98.55%",
@@ -503,7 +503,7 @@
       "2024-09-26": 367,
       "2024-09-25": 805,
       "2024-09-24": 600,
-      "2024-09-23": 203
+      "2024-09-23": 178
     }
   },
   {
@@ -560,7 +560,7 @@
     "icon": "https://docs.whimsies.org/customize/favicon/main-favicon.png",
     "slug": "captcha",
     "status": "down",
-    "uptime": "84.92%",
+    "uptime": "84.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -571,7 +571,7 @@
     "timeMonth": 357,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2025-09-06": 830,
+      "2025-09-06": 855,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
