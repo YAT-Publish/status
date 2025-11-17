@@ -1,7 +1,7 @@
 url: https://status.whimsies.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-17T21:56:04.439Z
+status: up
+code: 200
+responseTime: 503
+lastUpdated: 2025-11-17T22:09:42.520Z
 startTime: 2024-01-26T03:40:20.212Z
 generator: Upptime <https://github.com/upptime/upptime>
