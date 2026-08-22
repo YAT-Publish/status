@@ -73,7 +73,7 @@
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 751,
-      "2026-08-22": 797,
+      "2026-08-22": 822,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -535,16 +535,16 @@
     "url": "https://www.loliapi.com/acg",
     "icon": "https://cdn.iloli.love/loliapi.com/img/favicon.ico",
     "slug": "hashi-random-images-api-temporary",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "98.72%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "98.60%",
-    "time": 2559,
-    "timeDay": 2460,
-    "timeWeek": 3934,
-    "timeMonth": 3364,
+    "time": 2562,
+    "timeDay": 2531,
+    "timeWeek": 3801,
+    "timeMonth": 3344,
     "timeYear": 2642,
     "dailyMinutesDown": {
       "2025-09-01": 53,
@@ -628,7 +628,7 @@
       "2026-08-14": 44,
       "2026-08-18": 24,
       "2026-08-19": 88,
-      "2026-08-22": 1
+      "2026-08-22": 25
     }
   },
   {
@@ -720,7 +720,7 @@
     "timeMonth": 132,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2026-08-22": 797,
+      "2026-08-22": 823,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
