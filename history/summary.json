@@ -447,17 +447,17 @@
     "url": "https://www.loliapi.com/acg",
     "icon": "https://cdn.iloli.love/loliapi.com/img/favicon.ico",
     "slug": "hashi-random-images-api-temporary",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "56.95%",
-    "uptimeWeek": "86.29%",
+    "uptimeDay": "78.17%",
+    "uptimeWeek": "90.25%",
     "uptimeMonth": "87.84%",
     "uptimeYear": "97.89%",
-    "time": 2794,
-    "timeDay": 2513,
-    "timeWeek": 2642,
-    "timeMonth": 3333,
-    "timeYear": 2922,
+    "time": 2797,
+    "timeDay": 2631,
+    "timeWeek": 2673,
+    "timeMonth": 3330,
+    "timeYear": 2923,
     "dailyMinutesDown": {
       "2025-11-26": 17,
       "2025-11-30": 33,
@@ -539,7 +539,8 @@
       "2026-11-14": 549,
       "2026-11-15": 425,
       "2026-11-16": 681,
-      "2026-11-22": 795
+      "2026-11-22": 795,
+      "2026-11-23": 1
     }
   },
   {
@@ -599,7 +600,7 @@
     "icon": "https://docs.whimsies.org/customize/favicon/main-favicon.png",
     "slug": "captcha",
     "status": "down",
-    "uptime": "48.60%",
+    "uptime": "48.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -610,7 +611,7 @@
     "timeMonth": 233,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2026-11-23": 368,
+      "2026-11-23": 843,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
